@@ -1,0 +1,10 @@
+@import 'reset';
+@import 'base';
+$color: cyan;
+
+h1 {
+    display:flex;
+    color: $color;
+}
+
+

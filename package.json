@@ -1,0 +1,33 @@
+{
+  "name": "gulp-starte-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosolapeg/gulp-starte-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosolapeg/gulp-starte-kit/issues"
+  },
+  "homepage": "https://github.com/kosolapeg/gulp-starte-kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^4.0.0"
+  }
+}

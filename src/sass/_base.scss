@@ -1,0 +1,8 @@
+body {
+    background-color: #000;
+
+    @media (min-width:400px) {
+     background-clip: red;
+    }
+
+}
